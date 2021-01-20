@@ -13,18 +13,20 @@ O teste consiste em desenvolver uma pequena aplicação para um CRUD de veículo
 
 Fique a vontade para construir a interface da forma que achar melhor, este será um dos pontos avaliados. 
 
-As APIs também devem podem ser construídas utilizando o Design Pattern de seu interesse.
+Sugestão mínima de campos para cadastro: Placa, Marca, Modelo, Versão e Ano. Mas fique a vontade para adicionar o que achar pertinente.
 
-Quanto ao banco de dados, você pode escolher entre o [MongoDB](https://www.mongodb.com/) ou [PostgreSQL](https://www.postgresql.org/). Utilize uma imagem do Docker de acordo com o banco escolhido:
-* [Imagem Postgres](https://hub.docker.com/_/postgres)
-* [Imagem Mongo](https://hub.docker.com/_/mongo)
+As APIs também podem ser construídas utilizando o Design Pattern de seu interesse.
 
 ## Requisitos
 
 Já deixamos o projeto iniciado com uma stack definida, basta fazer o fork do repositório e dar continuidade:
-Front: [EmberJS](https://emberjs.com/)
-Back: [NodeJS + Express](https://expressjs.com/pt-br/)
-Banco: [MongoDB](https://www.mongodb.com/)
+Front: [EmberJS](https://emberjs.com/)\
+Back: [NodeJS + Express](https://expressjs.com/pt-br/)\
+Banco: [MongoDB](https://www.mongodb.com/) ou [PostgreSQL](https://www.postgresql.org/). Utilize uma imagem do Docker de acordo com o banco escolhido:
+- [Imagem Postgres](https://hub.docker.com/_/postgres)
+- [Imagem Mongo](https://hub.docker.com/_/mongo)
+
+Para listar marcas e modelos e carregar as opções em tela, você pode utilizar uma API pública que contenha as informações, encontramos [Esta aqui](https://deividfortuna.github.io/fipe/), mas se quiser utilizar outra, a vontade. O importante é avaliarmos como você realiza as requisições a APIs externas.
 
 ## Conclusão do desafio
 
