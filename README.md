@@ -30,7 +30,7 @@ Para listar marcas e modelos e carregar as opções em tela, você deve utilizar
 
 ## Conclusão do desafio
 
-Após realizar o desafio, enviar ao Github e nos enviar o link por e-mail.
+Após realizar o desafio, enviar ao Github e nos enviar o link no e-mail dev.jobs@sofit4.com.br.
 
 ## O que vamos avaliar?
 
