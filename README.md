@@ -26,7 +26,7 @@ Banco: [MongoDB](https://www.mongodb.com/) ou [PostgreSQL](https://www.postgresq
 - [Imagem Postgres](https://hub.docker.com/_/postgres)
 - [Imagem Mongo](https://hub.docker.com/_/mongo)
 
-Para listar marcas e modelos e carregar as opções em tela, você pode utilizar uma API pública que contenha as informações, encontramos [Esta aqui](https://deividfortuna.github.io/fipe/), mas se quiser utilizar outra, a vontade. O importante é avaliarmos como você realiza as requisições a APIs externas.
+Para listar marcas e modelos e carregar as opções em tela, você deve utilizar uma API pública que retorne as informações, encontramos [Esta aqui](https://deividfortuna.github.io/fipe/), mas se quiser utilizar outra, a vontade. O importante é avaliarmos como você realiza as requisições a APIs externas.
 
 ## Conclusão do desafio
 
