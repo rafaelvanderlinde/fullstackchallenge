@@ -15,7 +15,7 @@ Fique a vontade para construir a interface da forma que achar melhor, este será
 
 As APIs também devem podem ser construídas utilizando o Design Pattern de seu interesse.
 
-Quanto a banco de dados deixamos pronto uma imagem Docker do mongo para ser utilizada.
+Quanto ao banco de dados, você pode escolher entre o [MongoDB](https://www.mongodb.com/) ou [PostgreSQL](https://www.postgresql.org/). Utilize uma imagem do Docker do mongo para o banco escolhido.
 
 ## Requisitos
 
