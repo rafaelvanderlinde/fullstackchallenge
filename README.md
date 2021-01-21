@@ -37,5 +37,6 @@ Após realizar o desafio, enviar ao Github e nos enviar o link no e-mail dev.job
 - Estruturação e organização do código,
 - Funcionalidade da aplicação,
 - Interface final da aplicação,
+- Testes automatizados,
 - Padrão de Projeto,
 - Itens adicionais não solicitados.
